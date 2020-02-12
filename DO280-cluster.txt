@@ -1,0 +1,5 @@
+Classroom Identifier	zdwydjlppznvrwj200212
+Cluster ID	            9229790d-e910-4f69-b299-9864ad51ffae
+Cluster Username	    kubeadmin
+Cluster Password	    EXy3M-3FMLk-AFSyb-ZsRtt
+Cluster API URL	        api.ocp-zdwydjlppznvrwj200212.do280.prod.nextcle.com:6443
