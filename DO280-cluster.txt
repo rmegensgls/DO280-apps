@@ -1,5 +1,7 @@
-Classroom Identifier	zdwydjlppznvrwj200212
-Cluster ID	            9229790d-e910-4f69-b299-9864ad51ffae
+Classroom Identifier	lzqvjrvnenrwoyn200212
+Cluster ID	            85b8ecb1-f847-4f10-bce3-70e696c91ca2
 Cluster Username	    kubeadmin
-Cluster Password	    EXy3M-3FMLk-AFSyb-ZsRtt
-Cluster API URL	        api.ocp-zdwydjlppznvrwj200212.do280.prod.nextcle.com:6443
+Cluster Password	    LeMXv-WYU7X-Vyw7c-baIuK
+Cluster API URL	    api.ocp-lzqvjrvnenrwoyn200212.do280.prod.nextcle.com:6443
+State	running
+Classroom Status	Classroom ready

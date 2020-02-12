@@ -1,0 +1,32 @@
+" ****************************************************
+" Common
+set laststatus=2
+set statusline=%f
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set number
+set selection=exclusive
+set autoindent
+set autoread
+set showcmd
+set nocompatible
+set relativenumber
+set nrformats-=octal
+set scrolloff=30
+set pastetoggle=<F3>
+color murphy
+
+autocmd FileType yaml,yml setlocal ai ts=2 sw=2 et
+
+" Shortcuts remap
+nmap  <F2>          :tabnew<CR>
+nmap  <F4>          :set hlsearch<CR>
+nmap  <F5>          :nohlsearch<CR>
+nmap  <F7>          :tabp<CR>
+nmap  <F8>          :tabn<CR>
+nmap  <F9>          :tabclose<CR>
+nmap  <C-Down>      :tabprevious<CR>
+nmap  <C-Up>        :tabnext<CR>
+" *********************************************
+
